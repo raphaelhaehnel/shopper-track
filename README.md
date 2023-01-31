@@ -1,4 +1,4 @@
-# ShopperTrack
+![image](https://user-images.githubusercontent.com/69756617/215852417-8d4304ed-195f-4b70-a93d-47a83a74b9d7.png)
 
 ## Abstract
 
