@@ -4,7 +4,7 @@
 
 ShopperTrack is a project we started during the 6th Hackathon "Great Minds 6" of the Jerusalem College of Technology of Jerusalem.
 We are a team of 4 students: Raphael Haehnel, Hillel Saal, Yehochoua Lalou and Chmouel Hai Illouz.
-We developped a software based on machine learning and computer vision to analyze the activity of the customer in a shop from the video cameras of the shop. Our product detects people in the shop and create a map that contains the informations about the positions of the customers inside the shop, where they use to gather, their favorite path, which products they choose. From this data we collect, we are able to easily understand how the shop infrastructure is accessible and user-friendly.
+We developped a software based on machine learning and computer vision to analyze the customer activity and mouvements in a shop from the video cameras. Our product detects people and create a heatmap that contains the informations about the positions of the customers inside the shop, where they use to gather, their favorite path, which products they choose. From this data we collect, we are able to easily understand how the shop infrastructure is accessible and user-friendly.
 
 The technologies with use: Numpy, Nvidia Cuda, PyTorch (Yolo), RabbitMQ
 
